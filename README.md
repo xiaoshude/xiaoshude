@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm joefu 👋
 
-<!--
-**xiaoshude/xiaoshude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- **Developer | Front-end Developer | Full Stack Developer**
+- 10+ years of work experience in software development
+- Currently working at **WeChat**
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages & Frameworks:** TypeScript, Node.js, Vue, React
+- **Tools:** Vim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **WeChat Pay**  
+- **QQ**  
+- **QQ Channel**
+
+## 📫 Connect with Me
+- [X (Twitter)](https://x.com/XShude)
+
+---
+
+*Passionate about building impactful digital experiences and always eager to explore new technologies.*
